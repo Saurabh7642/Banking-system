@@ -8,3 +8,9 @@ Withdraw Funds: Withdraw money from an account, with a check to ensure the balan
 Balance Inquiry: Check the current balance and account details of an existing account.
 Close Account: Delete an account from the system.
 Show All Accounts: Display details of all accounts currently in the system.
+Technology Used
+C++ Standard Library:
+iostream for input and output operations.
+fstream for file handling to persist account data.
+map to manage a collection of accounts for quick lookups by account number.
+Basic exception handling for errors like insufficient funds.
